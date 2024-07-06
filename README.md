@@ -3,4 +3,4 @@
 <p><em>Middle Software Enginner at <a href="https://www.solarwinds.com/">Solarwinds</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Bc. student at <a href="https://www.fi.muni.cz/">Masaryk University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
-
+My main GitHub account [@turytsia](https://github.com/turytsia) unfortunately got flagged. Therefore, I've migrated all my repositories here for students and hiring managers to access.
